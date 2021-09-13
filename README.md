@@ -5,6 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/luxsalgado" target="blank"><img src="https://img.shields.io/twitter/follow/luxsalgado?logo=twitter&style=for-the-badge" alt="luxsalgado" /></a> </p>
 
+<p className="mb-0 text-justify">
+							Si no recuerdas tu contraseña, introduce tu correo y te enviaremos un enlace con las
+							instrucciones para restablecerla.
+						</p>
+
 - 🌱 I’m currently learning **Angular, Gatsby, Typescript**
 
 <h3 align="left">Connect with me:</h3>
