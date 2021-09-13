@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Salgado</h1>
-<h3 align="center">A developer currently living in Venezuela. Right now I am finishing my university degree in Computer Engineering, and I am looking to learn more about this wonderful world of software. I like retro video games and technology. I am passionate about learning about languages, cultures, geography, and history. Welcome!</h3>
+<h3 align="center">A full stack developer currently living in Venezuela. Right now I am finishing my university degree in Computer Engineering, and I am looking to learn more about this wonderful world of software. I like retro video games and technology. I am passionate about learning about languages, cultures, geography, and history. Welcome!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luxsalgado&label=Profile%20views&color=0e75b6&style=flat" alt="luxsalgado" /> </p>
 
