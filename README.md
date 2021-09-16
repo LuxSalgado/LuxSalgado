@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luxsalgado&label=Profile%20views&color=0e75b6&style=flat" alt="luxsalgado" /> </p>
 
-<p align="left"> <a href="https://twitter.com/luxsalgado" target="blank"><img src="https://img.shields.io/twitter/follow/luxsalgado?logo=twitter&style=for-the-badge" alt="luxsalgado" /></a> </p>
+<p align="center"> <a href="https://twitter.com/luxsalgado" target="blank"><img src="https://img.shields.io/twitter/follow/luxsalgado?logo=twitter&style=for-the-badge" alt="luxsalgado" /></a> </p>
 
 - 🌱 I’m currently learning **Angular, Gatsby, Typescript**
 
